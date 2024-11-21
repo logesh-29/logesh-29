@@ -7,17 +7,13 @@
 
 - 🔭 I’m currently working on [Movies-page](https://moonlit-hotteok-85b870.netlify.app/)
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://candid-kheer-12dfb7.netlify.app/](https://candid-kheer-12dfb7.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **logeshravi2911@gmail.com**
 
 - 📄 Know about my experiences [https://candid-kheer-12dfb7.netlify.app/](https://candid-kheer-12dfb7.netlify.app/)
 
-- ⚡ Fun fact **I adore playing football, and once I get going, I can even forget that I've been hungry.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
