@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logesh-29" alt="logesh-29" /></a> </p>
 
-- 🔭 I’m currently working on [Movies-page](https://moonlit-hotteok-85b870.netlify.app/)
-
 - 👨‍💻 All of my projects are available at [https://candid-kheer-12dfb7.netlify.app/](https://candid-kheer-12dfb7.netlify.app/)
 
 - 📫 How to reach me **logeshravi2911@gmail.com**
